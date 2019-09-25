@@ -2,6 +2,7 @@
 #include<iostream>           //¼ÓÇ¿°æ£¬º¬3 4 5 6 8 9¹¬ 
 #include<stdlib.h>
 #include<queue>
+#pragma warning(disable : 4996)
 using namespace std;
 int grid[9][9];
 int re;
