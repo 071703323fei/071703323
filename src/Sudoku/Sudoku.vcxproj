@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{7EA9B742-A624-4CD4-9653-01EB67937285}</ProjectGuid>
+    <ProjectGuid>{FAA75CB5-B809-4B7D-988B-1D9528BEB90A}</ProjectGuid>
     <RootNamespace>Sudoku</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
